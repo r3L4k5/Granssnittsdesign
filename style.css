@@ -35,18 +35,11 @@ nav {
 
 .services {
     display: grid;
-    
 
     grid-template-columns: max-content max-content max-content;
-
-
-    align-content: center;
-    justify-items: center;
-    align-items: center;
     justify-content: center;
 
     margin-top: 2%;
-
 }
 
 .services div {
